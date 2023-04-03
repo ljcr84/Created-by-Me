@@ -28,3 +28,4 @@ echo "The first part is: $new_string3"
 new_string4=${string#hello}
 echo "The last part is: $new_string4"
 
+# a chage to the file
