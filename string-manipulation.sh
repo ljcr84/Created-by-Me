@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo -e "\nThis are some examples of string manipulation using the Bash shell."
+echo -e "The original string is \"hello world\".\n"
+
 # String length.
 
 string="hello world"
